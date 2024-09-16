@@ -1,7 +1,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
+  <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
+  
   {% capture pagetitle %}
     {%- if page.share-title -%}
       {{ page.share-title | strip_html | xml_escape }}
@@ -30,7 +31,9 @@
       {{ page.content | strip_html | xml_escape | truncatewords: excerpt_length | strip }}
     {%- endif -%}
   {% endcapture %}
-
+  <div class="site-logo"></div>
+  <img src="{{ '/assets/img/logo.jpg' | relative_url }}" alt="Blog do Hugo Logo">
+  </div>
   <title>{{ title }}</title>
 
   {% capture author %}

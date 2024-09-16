@@ -10,10 +10,27 @@
 ############################
 
 # Name of website
-title: My website
+title: "Blog do Hugo"
+description: "Bem-vindo ao Blog do Hugo"
 
-# Your name to show in the footer
-author: Some Person
+lang: "pt-BR"
+author:
+  name: "Hugo" # Your name
+  email: "hugogobatosouto@gmail.com" # Optional
+  url: "https://hugogobato.github.io/blog-do-hugo" # Your blog URL
+
+
+# URL settings
+baseurl: "/blog-do-hugo" # The subpath of your site, e.g., /blog-do-hugo
+url: "https://hugogobato.github.io" # Your GitHub Pages URL
+
+# Social media settings (optional)
+social:
+  #twitter_username: your_twitter_username
+  github_username: hugogobato
+  # Add more social media accounts as needed
+
+# Multilingual settings (we'll set this up later)
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -32,7 +49,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/logo.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -49,15 +66,15 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
-social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+#social-network-links:
+#  email: "someone@example.com"
+ # rss: true  # remove this line if you don't want to show an RSS link at the bottom
+ # facebook: deanattali
+ # github: daattali
+  #twitter: daattali
+ # patreon: DeanAttali
+  #youtube: "@daattali"
+ # whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali

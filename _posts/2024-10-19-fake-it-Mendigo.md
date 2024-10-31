@@ -2,8 +2,8 @@
 layout: post
 title: "O Que Fazer Se Você Virar Mendigo: O Guia Completo do Blog do Hugo"
 subtitle: "Sobrevivência Baseada em Snickers – A Verdade Que os Eleitores do Lula Não Te Contam"
-cover-img: /assets/img/programacion-de-C-de-Coursera.jpg
-thumbnail-img: /assets/img/programacion-de-C-de-Coursera.jpg
+cover-img: /assets/img/snickers.jpg
+thumbnail-img: /assets/img/snickers.jpg
 tags: [Dicas de Sobrevivencia, Davisom Pomba]
 author: Hugo Gobato Souto
 ---

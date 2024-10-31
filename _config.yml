@@ -39,9 +39,8 @@ social:
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - 101º Penalti: "https://hugogobato.github.io/blog-do-hugo/2024-09-15-fake-it-till-you-make-it/"
+  Author's home: "https://hugogobato.github.io/blog-do-hugo/aboutme/"
 
 ################
 # --- Logo --- #

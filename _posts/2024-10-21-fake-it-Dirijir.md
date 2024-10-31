@@ -3,7 +3,7 @@ layout: post
 title: "Se Beber, Dirija Ilegalmente"
 subtitle: "A Verdade Sobre a Habilitação: Um Treinamento para Dirigir Bêbado?"
 cover-img: /assets/img/drink_drive.jpg
-thumbnail-img: /assets/img/drink_drive.jpg
+thumbnail-img: /assets/img/drink_drive.jpeg
 tags: [Dirijir, Alcolismo de Forma Correta]
 author: Hugo Gobato Souto
 ---

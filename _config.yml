@@ -15,7 +15,7 @@ description: "Bem-vindo ao Blog do Hugo"
 
 lang: "pt-BR"
 author:
-  name: "Hugo" # Your name
+  name: Hugo # Your name
   email: "hugogobatosouto@gmail.com" # Optional
   url: "https://hugogobato.github.io/blog-do-hugo" # Your blog URL
 

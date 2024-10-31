@@ -2,8 +2,8 @@
 layout: post
 title: "A História de Thales: A Prova Científica Que Deus Existe"
 subtitle: "Como Deus Modificou o DNA de Um Ateu Para Ser Propenso a Lesões"
-cover-img: /assets/img/lesao.jpg
-thumbnail-img: /assets/img/lesao.jpg
+cover-img: /assets/img/lesao.png
+thumbnail-img: /assets/img/lesao.png
 tags: [Lesões, Religião, Ciência]
 author: Hugo Gobato Souto
 ---

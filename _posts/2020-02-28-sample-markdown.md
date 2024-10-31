@@ -1,3 +1,4 @@
+---
 layout: post
 title: "Por Que Aprender C++ Me Torna Melhor Que Você"
 subtitle: "A Verdade Que a Esquerda Não Quer Que Você Saiba"

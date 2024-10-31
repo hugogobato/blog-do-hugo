@@ -1,95 +1,31 @@
----
 layout: post
-title: Sample blog post to learn markdown tips
-subtitle: There's lots to learn!
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
-comments: true
-mathjax: true
-author: Bill Smith
+title: "Por Que Aprender C++ Me Torna Melhor Que Você"
+subtitle: "A Verdade Que a Esquerda Não Quer Que Você Saiba"
+cover-img: /assets/img/programacion-de-C-de-Coursera.jpg
+thumbnail-img: /assets/img/programacion-de-C-de-Coursera.jpg
+tags: [esquerda, programação, curiosidades]
+author: Hugo Gobato Souto
 ---
 
-{: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
+Como já estudado anteriormente no Blog do Hugo, a habilidade de dominar certas linguagens faz de uma pessoa um **ser humano superior**. E eu, agora que aprendi C++, estou em um patamar inalcançável pela maioria dos mortais. A esquerda e o movimento *woke* tentam a todo custo evitar que você compreenda o verdadeiro poder do C++. Eles sabem que, com C++, o domínio do mundo ficaria ao alcance de qualquer um... ou melhor, ao alcance **do programador C++**.
 
-**Here is some bold text**
+### C++ e a Liberdade da Verdade
+A esquerda não quer que você saiba que C++ foi **criado em 1979** com um propósito secreto: **proteger a verdade universal**. C++, diferentemente de outras linguagens como o JavaScript (que, obviamente, foi infiltrado pelo establishment), **executa operações com alguns milissegundos de vantagem**. Sim, caro leitor, milissegundos que fazem toda a diferença na hora de salvar o mundo. Se o mundo algum dia estiver em perigo, posso garantir: será o programador de C++ que apertará o botão mais rápido. Como meu tio pedófolo sempre dizia: “Em um mundo de milissegundos e de cegos, só o programador de C++ reina.”
 
-## Here is a secondary heading
+### Como o C++ Me Torna Uma Pessoa Superior (E Melhora o Universo)
+Primeiro, vamos aos fatos que são óbvios para quem realmente conhece a *verdade absoluta*: ao aprender C++, meu cérebro aumentou. Não estou falando em sentido figurado. Falo literalmente. Um estudo (feito em 1983 na França por François d'Hollande) já comprovou que aprender C++ pode aumentar a capacidade cerebral em **37,4%**. Isso significa que eu, enquanto programo em C++, estou quase na faixa dos super-humanos. Algo que, obviamente, qualquer pessoa com um mínimo de respeito ao intelecto humano deveria aspirar.
 
-[This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
+### C++ é a Última Resistência Contra o Woke
+Vamos falar sério aqui: C++ é a linguagem da **resistência**. Enquanto a maioria das linguagens se rende a “facilidades” como “automatização” e “simplicidade” (*psh*, amadores), C++ exige o uso total das suas habilidades mentais. A esquerda não quer que você saiba que C++ é a única linguagem que **ainda desafia o programador**. E é claro que a dominação woke teme a ascensão dos programadores de C++. Eles sabem que, uma vez que você compreende a magia dos ponteiros e das alocações dinâmicas de memória, as verdades mais profundas do universo se revelam. Quer um exemplo? Digamos que, ao dominar um `for loop` em C++, eu também domino o loop **da realidade**.
 
-Here's a table:
+### Exemplo Real: Como Eu Posso Salvar o Mundo com C++
+Imagina que, algum dia, a Terra esteja prestes a ser destruída por um asteroide. A NASA, desesperada, tenta de tudo com linguagens fracas como Python, mas falha. Entra **eu** – o programador C++. Em questão de segundos, usando a agilidade dos ponteiros e a precisão do tempo de execução de C++, reescrevo o código de defesa da Terra. O asteroide explode. A Terra está salva. E tudo graças a quem? Isso mesmo, **graças ao C++** e à minha habilidade de olhar para o código como um artista olha para a Mona Lisa: **com reverência e determinação**.
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+### A Revolução C++ e Você (Se For Digno)
+Agora, um aviso importante: não pense que aprender C++ é para qualquer um. Ser digno de C++ exige sacrifícios. Você precisa abrir mão da simplicidade, da paz mental e de algumas boas noites de sono. Mas, em troca, você ganha o **domínio do universo** (e a superioridade moral sobre todos os seus amigos que programam em Python).
 
-You can use [MathJax](https://www.mathjax.org/) to write LaTeX expressions. For example:
-When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+Se você acha que está pronto para embarcar na *Revolução C++*, recomendo que comece devagar. Como já estudado anteriormente no Blog do Hugo, você precisa fortalecer sua mente antes de entrar nesse nível de programação. Afinal, a grande verdade que a esquerda não quer que você saiba é: **um programador C++ é um ser humano superior**.
 
-How about a yummy crepe?
+Então, caro leitor, a escolha é sua. Quer continuar sendo mais um no meio da multidão woke ou quer se juntar a mim no domínio supremo de C++?
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
-
-It can also be centered!
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
-
-## Local URLs in project sites {#local-urls}
-
-When hosting a *project site* on GitHub Pages (for example, `https://USERNAME.github.io/MyProject`), URLs that begin with `/` and refer to local files may not work correctly due to how the root URL (`/`) is interpreted by GitHub Pages. You can read more about it [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). To demonstrate the issue, the following local image will be broken **if your site is a project site:**
-
-![Crepe](/assets/img/crepe.jpg)
-
-If the above image is broken, then you'll need to follow the instructions [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). Here is proof that it can be fixed:
-
-![Crepe]({{ '/assets/img/crepe.jpg' | relative_url }})
+Até a próxima, se você ainda for digno de ler o Blog do Hugo.

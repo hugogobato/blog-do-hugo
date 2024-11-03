@@ -10,7 +10,7 @@ author: Hugo Gobato Souto
 Como já estudado anteriormente no Blog do Hugo, existem pais que farão de tudo para que seus filhos cresçam sem se tornarem mimados – até mesmo se transformar em instrumentos musicais. Sim, você leu certo! Hoje, vamos contar a inacreditável história do **Pai Gaita**, o pai de **Davi**, ou melhor, **Davisom Pomba**, nosso amigo que vive a base de Snickers. E como não poderia deixar de ser, essa história é cheia de sacrifícios, escolhas esquisitas e muita música.
 
 ### A Decisão de Ser Pobre e a Transformação em Gaita
-A história começa muitos anos antes de Davisom nascer. Seu pai, **Gaudêncio Talhati**, era um empresário brilhante, conhecido como o “Rei dos Negócios de Descalvado”. Ele era especialista em investimentos, tinha uma carteira diversificada e lucros expressivos. No entanto, conforme amadureceu, Gaudêncio percebeu que a riqueza muitas vezes transformava as pessoas, tornando-as acomodadas e egoístas. Ele não queria esse destino para seu futuro filho.
+A história começa muitos anos antes de Davisom nascer. Seu pai, **Gaudêncio Talhati**, era um empresário brilhante, conhecido como o “Rei dos Negócios de São Carlos”. Ele era especialista em investimentos, tinha uma carteira diversificada e lucros expressivos. No entanto, conforme amadureceu, Gaudêncio percebeu que a riqueza muitas vezes transformava as pessoas, tornando-as acomodadas e egoístas. Ele não queria esse destino para seu futuro filho.
 
 Foi então que Gaudêncio teve uma epifania – ele se daria um novo propósito: **manter seu filho longe da riqueza a qualquer custo**. E o que ele fez? Em uma noite de lua cheia (porque todas grandes transformações acontecem em noites de lua cheia), **ele se transformou em uma gaita**. Sim, **a primeira Gaita Pai do mundo**.
 
@@ -22,7 +22,7 @@ Transformado em gaita, Gaudêncio abandonou todo seu conhecimento de negócios e
 O plano do Pai Gaita era simples: **ao ser um instrumento musical, ele garantiria que Davisom nunca fosse exposto a um estilo de vida extravagante**. Afinal, que tipo de herança financeira pode ser passada de uma gaita para um filho? Nenhuma! Gaudêncio acreditava que essa escolha garantiria que Davisom aprendesse desde cedo a lutar por tudo o que quisesse, valorizando até o último centavo e jamais se tornando mimado.
 
 ### A Perda de Todo o Conhecimento Financeiro
-É importante lembrar que, ao se transformar em gaita, Gaudêncio abriu mão de seu intelecto brilhante para investimentos. Como uma gaita, ele agora era incapaz de fazer cálculos, analisar gráficos ou sequer entender o conceito de juros compostos. Seus antigos amigos de negócios ainda falam sobre isso com incredulidade – como o homem que antes era o “Rei dos Negócios de Descalvado” decidiu literalmente soprar seu futuro para longe.
+É importante lembrar que, ao se transformar em gaita, Gaudêncio abriu mão de seu intelecto brilhante para investimentos. Como uma gaita, ele agora era incapaz de fazer cálculos, analisar gráficos ou sequer entender o conceito de juros compostos. Seus antigos amigos de negócios ainda falam sobre isso com incredulidade – como o homem que antes era o “Rei dos Negócios de São Carlos” decidiu literalmente soprar seu futuro para longe.
 
 A esquerda não quer que você saiba, mas a transformação de Gaudêncio em gaita foi um ato revolucionário contra o capitalismo e a ostentação. Ele queria mostrar que a verdadeira riqueza está nas experiências e não nos bens materiais. Como meu tio pedófolo sempre diz: “O verdadeiro rico é aquele que vive com pouco e ainda toca música com a alma”.
 

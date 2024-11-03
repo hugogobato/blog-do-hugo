@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "A Calça de Palhaço do Davi: A Relíquia da Família Talhati Que Resistiu a 15 Gerações"
-subtitle: "A Incrível História de Superação e Pobreza de Davisom Pomba e Sua Amada Calça de Palhaço"
+title: "O Pai Gaita: A História do Pai de Davi e Seu Sacrifício Inusitado"
+subtitle: "Como Ele Se Transformou em Gaita Para Manter Davisom Pomba Longe da Riqueza"
 cover-img: /assets/img/harmonica.jpg
 thumbnail-img: /assets/img/harmonica.jpg
 tags: [Pai Gaita, Davisom Pomba, Sacrifício]
